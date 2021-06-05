@@ -2,7 +2,7 @@
 
 
 #### Dataset
-This dataset is used to predict complications of Mycardial Infraction (MI) based on the information about the patient. The target value 0 is no complication and 1 means complication within the first three days of hospitalization. 
+This dataset is used to predict complications of Myocardial Infarction (MI) based on the information about the patient. The target value 0 is no complication and 1 means complication within the first three days of hospitalization. 
 
 MI is one of the most challenging problems of modern medicine. Acute myocardial infarction is associated with high mortality in the first year after it. The incidence of MI remains high in all countries. This is especially true for the urban population of highly developed countries, which is exposed to chronic stress factors, irregular and not always balanced nutrition. In the United States, for example, more than a million people suffer from MI every year, and 200-300 thousand of them die from acute MI before arriving at the hospital.
 In this regard, predicting complications of myocardial infarction in order to timely carry out the necessary preventive measures is an important task.
